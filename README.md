@@ -10,3 +10,7 @@
 ### Developer Insight
 - [FE플랫폼팀이 궁금하세요? – 함께 성장해가는 개발팀 이야기](https://tech.kakao.com/2020/09/21/kakao-fe-platform-team/)
 - [변화는 어떻게 만들 것인가? - 팀원(주니어)편](https://www.youtube.com/watch?v=0M90IWExNXY&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1)
+
+
+### Android
+- [ViewBinding 사용해보기 - 뿌셔](https://www.devhyeon.com/post/viewbinding-%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
