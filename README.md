@@ -17,3 +17,12 @@
 ### Android
 
 - [ViewBinding 사용해보기](https://www.devhyeon.com/post/viewbinding-%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
+
+---
+
+### Study
+
+- Rb (초보만)
+  - ECMA Script 핵심기능 토파보기
+  - NextJS와 React로 시작하는 SSR 웹 사이트 개발
+  - Spring boot와 AWS로 구현하는 RestAPI 개발
