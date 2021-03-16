@@ -24,8 +24,9 @@
 
 > 각 내용은 매 스터디 전 간단한 섹션 발표 후 진행합니다.
 - 알비 (03.08 ~)
-  - ECMA Script 핵심기능 톺아보기
-    - 자바스크립트를 모르더라도 참여할 수 있습니다.
-    - 현업에서 자주 사용하는 예제를 기반으로 직접 구현해보며 적용해보는 과정을 진행합니다.
-  - Spring Boot와 AWS로 구현하는 RestAPI 개발
-    - Spring Boot의 핵심 개념을 이해하고 Rest API를 개발하여 프론트엔드와의 연결, AWS를 통한 배포 과정을 진행합니다.
+  - <del>ECMA Script 핵심기능 톺아보기</del>
+    - <del>자바스크립트를 모르더라도 참여할 수 있습니다.</del>
+    - <del>현업에서 자주 사용하는 예제를 기반으로 직접 구현해보며 적용해보는 과정을 진행합니다.</del>
+  - <del>Spring Boot와 AWS로 구현하는 RestAPI 개발</del>
+    - <del>Spring Boot의 핵심 개념을 이해하고 Rest API를 개발하여 프론트엔드와의 연결, AWS를 통한 배포 과정을 진행합니다.</del>
+  - 진행중인 스터디가 궁금하시다면 [링크](https://github.com/dance-with-rb)를 참고해주세요.
